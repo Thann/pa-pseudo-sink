@@ -31,7 +31,7 @@ setup(
     author_email = "jaknapp8@gmail.com",
     description = description,
     license = "UNLICENSE",
-    keywords = "aulseaudio dummy output",
+    keywords = "pulseaudio dummy output",
     url = "http://github.com/thann/pa-pseudo-sink",
     long_description=read('README.md'),
     classifiers=[
